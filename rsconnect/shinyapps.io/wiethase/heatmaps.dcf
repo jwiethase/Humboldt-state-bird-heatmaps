@@ -1,0 +1,10 @@
+name: heatmaps
+title:
+username:
+account: wiethase
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 281261
+bundleId: 1240685
+url: https://wiethase.shinyapps.io/heatmaps/
+when: 1519661904.28585
